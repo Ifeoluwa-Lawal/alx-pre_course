@@ -1,1 +1,5 @@
-touch
+git checkout main 
+git checkout
+git pull
+git commit -m
+git config --global core.autocrlf true
